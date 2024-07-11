@@ -2,7 +2,7 @@
 title: "Teaching experience 1"
 collection: teaching
 type: "微积分3"
-permalink: /teaching/2022-autumn-teaching-1
+permalink: /teaching/2014-spring-teaching-1
 venue: "四川大学, 历史文化学院"
 date: 2022年春季学期
 location: "成都, 四川"

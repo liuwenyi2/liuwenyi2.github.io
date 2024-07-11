@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "个人主页"
+title                    : "Liu, Wenyi(刘文艺)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
